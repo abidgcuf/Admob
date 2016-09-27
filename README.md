@@ -1,9 +1,3 @@
-# admob
-
-import UIKit
-import Firebase
-import GoogleMobileAds
-class ViewController: UIViewController {
 
     var banner: GADBannerView!
     
